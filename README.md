@@ -11,7 +11,7 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAGtzC&exclude_repo=Resume,Portfolio&theme=dracula"/>
   </span>
   <span>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dracula"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dark"/>
   </span>
 </div>
 
