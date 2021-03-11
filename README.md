@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioAGtzC&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioAGtzC&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dark"/>
 </div>
 
 <div align="center">
   <span>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAGtzC&exclude_repo=Resume,Portfolio&theme=dracula"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAGtzC&exclude_repo=Resume,Portfolio&theme=dark"/>
   </span>
   <span>
      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dark"/>
@@ -17,10 +17,10 @@
 
 <div align="center">
   <span>
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MarioAGtzC&repo=resume&theme=dracula"/>
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MarioAGtzC&repo=resume&theme=dark"/>
   </span>
 </div>
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarioAGtzC&theme=dracula&no-frame=true&margin-w=30" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioAGtzC&theme=dark&no-frame=true&margin-w=30" />
 </div>
