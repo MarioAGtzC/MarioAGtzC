@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello there! <img src="https://media.giphy.com/media/KAFyE31UznAEaru7de/giphy.gif" width="40px"></h1>
+</div>
 
-<!--
-**MarioAGtzC/MarioAGtzC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioAGtzC&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <span>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAGtzC&exclude_repo=Resume,Portfolio&theme=dracula"/>
+  </span>
+  <span>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dracula"/>
+  </span>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <span>
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MarioAGtzC&repo=resume&theme=dracula"/>
+  </span>
+</div>
+ 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioAGtzC&theme=darkhub&no-frame=true&margin-w=30" />
+</div>
