@@ -10,6 +10,7 @@
   <span>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAGtzC&exclude_repo=Resume,Portfolio&theme=dark"/>
   </span>
+  &nbsp;
   <span>
      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dark"/>
   </span>
