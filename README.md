@@ -38,7 +38,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marioagtzc&theme=dark&hide_border=false"><br/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioagtzc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> -->
   <img src="https://api.githubtrends.io/user/svg/MarioAGtzC/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dark&range=last_7_days">
 <!--   ![](https://github-readme-stats.vercel.app/api?username=marioagtzc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=marioagtzc&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marioagtzc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
