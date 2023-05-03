@@ -7,6 +7,10 @@
 </div>
 <br/>
 <div align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=marioagtzc&theme=dark&card_width=600&disable_animations=true"/>
+</div>
+<br/>
+<div align="center">
   <span>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAGtzC&exclude_repo=Resume,Portfolio&theme=dark"/>
   </span>
@@ -16,12 +20,12 @@
   </span>
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <span>
      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MarioAGtzC&repo=resume&theme=dark"/>
   </span>
 </div>
-<br/>
+<br/> -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarioAGtzC&theme=darkhub&no-frame=true&margin-w=30" />
 </div>
