@@ -46,7 +46,7 @@
   ![](https://github-readme-stats.vercel.app/api/wakatime?username=MarioAGtzC&theme=dark) -->
 </div>
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies:
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=marioagtzc&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
 <!--   ![](https://github-trophies.vercel.app/?username=marioagtzc&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
